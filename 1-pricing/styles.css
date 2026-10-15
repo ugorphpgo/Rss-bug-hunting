@@ -45,6 +45,7 @@ body {
   display: flex;
   background: #ffffff;
   flex-direction: column;
+  align-items: center;
   border: 1px solid #e2e8f0;
   border-radius: 12px;
   padding: 32px 24px;
